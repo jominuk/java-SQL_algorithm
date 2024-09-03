@@ -1,4 +1,4 @@
-# java_algorithm
+# java 및 SQL algorithm
 
 <br/>
 
